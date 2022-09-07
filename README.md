@@ -1,2 +1,2 @@
-# iGEMox2016
-Sharing cod for the oxford wiki 2016
+The Odin project odyssey
+Sharing code for my knowledge in the Odin project
